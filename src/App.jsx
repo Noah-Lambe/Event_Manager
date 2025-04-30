@@ -67,6 +67,6 @@ const App = () => {
       <EventList events={events} onDelete={deleteEvent} />
     </div>
   );
-};
+}
 
 export default App;
